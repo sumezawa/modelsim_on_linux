@@ -3,7 +3,7 @@ hello! This is an Ubuntu and Debian-based Linux distro installation tutorial
 
 I used an online instruction set (link at the bottom), but some things didn't work so I had to slightly modify the instructions.
 
-please write in comments if this does not appear to work for you.
+please notify if this does not appear to work for you.
 
 $ sudo dpkg --add-architecture i386
 
