@@ -1,4 +1,4 @@
-# ModelSim on Debian, maybe Ubuntu. (why is ModelSim 32-bit???)
+# Student Edition ModelSim on Debian, maybe Ubuntu. (why is ModelSim 32-bit???)
 
 Hello! This is an installation tutorial that works on Debian as of 2 October 2020, and probably other Debian-based distros like Ubuntu.
 
@@ -64,3 +64,4 @@ original instructions: https://profile.iiita.ac.in/bibhas.ghoshal/COA_2020/Lab/M
 
 installer location: https://drive.google.com/file/d/0BxghKvvmdklCSm0yTFJJYjNYQXM/view
 
+Last Updated: 2 October 2020 16:00 UTC−07:00
