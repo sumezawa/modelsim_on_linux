@@ -1,5 +1,5 @@
-# modelsim_on_linux
-hello! This is a Ubuntu and Debian-based Linux distro installation tutorial
+# ModelSim on Debian, maybe Ubuntu. (why is ModelSim 32-bit???)
+hello! This is an Ubuntu and Debian-based Linux distro installation tutorial
 
 I used an online instruction set (link at the bottom), but some things didn't work so I had to slightly modify the instructions.
 
