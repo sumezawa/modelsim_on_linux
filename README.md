@@ -45,6 +45,8 @@ in vim, in the first non-comment line, change: **mode=${MTI_VCO_MODE:-""}** -> *
 
 type /rh, (or in another text editor search the line with vco="linux_rh60") and change: **vco="linux_rh60"** -> **vco="linux"**))
 
+right after the line with **dir=`dirname $arg0`**, add **export LD_LIBRARY_PATH=${dir}/lib32**
+
 Finally, running ./vsim should open ModelSim.
 
 
